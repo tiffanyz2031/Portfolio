@@ -93,6 +93,10 @@ PROJECT
     width: 100%
 }
 
+#project .card video{
+    width: 100%
+}
+
 #project .card-title{
     font-weight: bold;
 }
